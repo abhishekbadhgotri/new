@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <script language="JavaScript">
+        function fun()
+        {
+            for(var i=0;i<4;i++)
+            {
+                window.open("https://www.google.com/","_blank");
+            }
+        }
+    </script>
+</head>
+<body onload="fun()">
+</body>
+</html>
